@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://github.com/NikachuX/Practice)
+- [Публичная страница на GitHub Pages](https://nikachux.github.io/Practice/)
